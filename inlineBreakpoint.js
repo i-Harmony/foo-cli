@@ -1,6 +1,6 @@
 class Demo {
     static getFoo() {
-        return "foo1";
+        return "foo2";
     }
 
     static getBoo() {

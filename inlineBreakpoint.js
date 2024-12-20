@@ -1,13 +1,13 @@
 class Demo {
     static getFoo() {
-        return "foo"; 
+        return "foo1";
     }
 
     static getBoo() {
-        return "Boo"; 
+        return "Boo";
     }
 
     static getCoo() {
-        return "Coo"; 
+        return "Coo";
     }
 }
